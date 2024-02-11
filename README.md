@@ -1,5 +1,6 @@
+Voici la mise à jour de votre fichier README.md pour inclure les étapes pour installer l'application sur un téléphone :
 
-
+```markdown
 # Sentimental Analysis - Application Amusante
 
 Ce projet est une application Flutter pour l'analyse sentimentale, conçue pour détecter l'humeur des personnes à partir d'images. L'application utilise la technologie de reconnaissance faciale de Google ML Kit pour analyser les visages dans les images et déterminer leur humeur.
@@ -44,9 +45,22 @@ flutter analyze
 flutter run
 ```
 
+## Installation sur Téléphone
+
+### Build de l'APK
+Pour installer l'application sur votre téléphone, suivez ces étapes :
+1. Exécutez la commande `flutter build apk` pour générer un fichier APK de votre application. Cette commande générera un fichier APK dans le répertoire `build/app/outputs/flutter-apk/`.
+
+### Installation sur Téléphone
+2. Une fois la construction terminée, recherchez le fichier APK généré dans le répertoire `build/app/outputs/flutter-apk/`.
+3. Transférez le fichier APK sur un appareil Android et installez-le pour tester votre application.
+
 ## Contributions et Problèmes
 Les contributions au projet sont les bienvenues ! Si vous rencontrez des problèmes ou si vous avez des suggestions d'amélioration, veuillez les signaler en créant une "issue" sur GitHub.
 
 Merci d'utiliser notre application Sentimental Analysis ! Amusez-vous bien ! 🚀
 
 **Auteur :** Nathan RC et Lahizarre P
+```
+
+Cela inclut maintenant les étapes pour générer le fichier APK et l'installer sur un téléphone Android.
