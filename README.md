@@ -55,6 +55,15 @@ Pour installer l'application sur votre téléphone, suivez ces étapes :
 ### Testez votre APK
 3. Transférez le fichier APK sur un appareil Android et installez-le pour tester votre application.
 
+## Explications Additionnelles
+
+Si vous avez besoin de plus d'explications sur le code, veuillez consulter le fichier "Rapport/Sentimental_analysis.pdf".
+
+## Vidéo de lancement
+
+Si vous souhaitez visualiser le lancement de notre application, veuillez regarder la vidéo "Video/Sentimental analysis.mp4".
+
+
 ## Contributions et Problèmes
 Les contributions au projet sont les bienvenues ! Si vous rencontrez des problèmes ou si vous avez des suggestions d'amélioration, veuillez les signaler en créant une "issue" sur GitHub.
 
