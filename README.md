@@ -57,11 +57,11 @@ Pour installer l'application sur votre téléphone, suivez ces étapes :
 
 ## Explications Additionnelles
 
-Si vous avez besoin de plus d'explications sur le code, veuillez consulter le fichier "Rapport/Sentimental_analysis.pdf".
+Si vous avez besoin de plus d'explications sur le code, veuillez consulter le fichier `Rapport/Sentimental_analysis.pdf`.
 
 ## Vidéo de lancement
 
-Si vous souhaitez visualiser le lancement de notre application, veuillez regarder la vidéo "Video/Sentimental analysis.mp4".
+Si vous souhaitez visualiser le lancement de notre application, veuillez regarder la vidéo `Video/Sentimental analysis.mp4`.
 
 
 ## Contributions et Problèmes
