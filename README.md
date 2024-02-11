@@ -9,7 +9,7 @@ Ce projet est une application Flutter pour l'analyse sentimentale, conçue pour 
 ### Clonage du Projet
 1. Clonez le projet à partir de GitHub en utilisant la commande suivante :
 ```
-git clone https://github.com/Nathan2413/Sentimental_analysis_funnyapp.git
+git clone https://github.com/Nathan2413/Sentimental_analysis_FunnyApp.git
 ```
 
 ### Installation des Dépendances
