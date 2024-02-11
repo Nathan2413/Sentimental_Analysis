@@ -1,4 +1,4 @@
-# Analyse de Sentiments - Application Amusante
+# Sentimental Analysis - Application Amusante
 
 Ce projet est une application Flutter pour l'analyse de sentiments, conçue pour détecter l'humeur des personnes à partir d'images. L'application utilise la technologie de reconnaissance faciale de Google ML Kit pour analyser les visages dans les images et déterminer leur humeur.
 
